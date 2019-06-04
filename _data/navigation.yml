@@ -1,0 +1,35 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Nav 1
+  url: /nav-1/sub-1/
+  sub-links:
+  - title: Sub 1
+    url: /nav-1/sub-1/
+  - title: Sub 2
+    url: /nav-1/sub-2/
+  - title: Sub 3
+    url: /nav-1/sub-3/
+- title: Nav 2
+  url: /nav-2/sub-a/
+  sub-links:
+  - title: Sub A
+    url: /nav-2/sub-a/
+  - title: Sub B
+    url: /nav-2/sub-b/
+- title: News
+  url: /news/
+  sub-links:
+  - title: All
+    url: /news/
+  - title: Publications
+    url: /news/publications/
+  - title: Media
+    url: /news/media/
+  - title: News
+    url: /news/news/
