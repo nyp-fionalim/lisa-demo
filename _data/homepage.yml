@@ -20,6 +20,7 @@ button:
   - text: Learn More
     url: /who-we-are/
     
+#Key Highlights
 key-highlights:
   - title: Highlight A
     description: Important highlight A is important
@@ -32,6 +33,16 @@ key-highlights:
   - title: Page A
     description: Page A is important too
     url: /page-A/
+
+
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: Our products
+programmes-subtitle: Building cool products
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: More Products and Services
+programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
+
 
 resources-title: Resources
 resources-subtitle: Be in the know
