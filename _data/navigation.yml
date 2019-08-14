@@ -4,8 +4,13 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
+- title: Nav 2
+  url: /nav-2/sub-a/
+  sub-links:
+  - title: Sub A
+    url: /nav-2/sub-a/
+  - title: Sub B
+    url: /nav-2/sub-b/
 - title: Nav 1
   url: /nav-1/sub-1/
   sub-links:
@@ -15,13 +20,7 @@
     url: /nav-1/sub-2/
   - title: Sub 3
     url: /nav-1/sub-3/
-- title: Nav 2
-  url: /nav-2/sub-a/
-  sub-links:
-  - title: Sub A
-    url: /nav-2/sub-a/
-  - title: Sub B
-    url: /nav-2/sub-b/
+
 - title: News
   url: /news/
   sub-links:
@@ -33,3 +32,7 @@
     url: /news/media/
   - title: News
     url: /news/news/
+    
+    
+- title: Contact Us
+  url: /contact-us/
