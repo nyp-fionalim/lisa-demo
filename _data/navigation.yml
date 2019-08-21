@@ -14,6 +14,8 @@
     url: /nav-2/sub-a/
   - title: Sub B
     url: /nav-2/sub-b/
+  - title: Test
+    url: /nav-2/testtest/
 - title: Nav 1
   url: /nav-1/sub-1/
   sub-links:
