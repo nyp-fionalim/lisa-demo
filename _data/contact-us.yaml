@@ -8,7 +8,7 @@
 
 locations:
 # NATIONAL CENTRE OF EXCELLENCE FOR WORKPLACE LEARNING (NACE) [REQUIRED]
-  - title:
+  - title: this is a title: title
     address: Nanyang Polytechnic <br> Block D1, Level 4 <br> 180 Ang Mo Kio Avenue 8 Singapore (569830)
   # Contact US [OPTIONAL]
     operating-hours-Contact-Us:
